@@ -20,7 +20,6 @@ Welcome to my Github page! I am Emilio and I am currently finishing my Computer 
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"></code>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </p>
 
 ### ⚡️ Stats
